@@ -2,8 +2,8 @@
 <p align="center">I'm Jacob Ketterer, a UTA Software Engineering Student graduating in Spring 2025</p>
 
 <h2>Github Stats</h2>
-<a href="https://github.com/jketterer02"><img width="50%" src="https://github-readme-stats-five-ivory-45.vercel.app/api?username=jketterer02&theme=react&show_icons=true"></a>
+<a href="https://github.com/jketterer02"><img width="50%" src="https://github-readme-stats-five-ivory-45.vercel.app/api?username=jketterer02&theme=github_dark_dimmed&show_icons=true"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jketterer02&layout=compact&theme=react)](https://github.com/jketterer02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jketterer02&layout=compact&theme=github_dark_dimmed)](https://github.com/jketterer02/github-readme-stats)
 
 
