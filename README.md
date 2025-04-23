@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jketterer02&layout=compact&theme=dark)](https://github.com/jketterer02)
 
-<center>
+<div align="center">
   <table>
     <tr>
       <td>
@@ -21,5 +21,4 @@
       </td>
     </tr>
   </table>
-</center>
-
+</div>
