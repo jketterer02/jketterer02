@@ -16,3 +16,8 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats-five-ivory-45.vercel.app/api?username=jketterer02&theme=dark&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jketterer02&layout=compact&theme=dark" height="180"/>
+</div>
