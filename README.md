@@ -3,3 +3,6 @@
 
 <h2>Github Stats</h2>
 <a href="https://github.com/jketterer02"><img width="50%" src="https://github-readme-stats-five-ivory-45.vercel.app/api?username=jketterer02&theme=github_dark&show_icons=true"></a>
+[![Top Langs](https://github-readme-stats-five-ivory-45.vercel.app/api/top-langs/?username=jketterer)](https://github.com/jketterer/github-readme-stats)
+
+
