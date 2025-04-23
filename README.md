@@ -28,10 +28,10 @@
 
 <div align="center">
   <a href="https://github.com/jketterer02">
-    <img height="180px" src="https://github-readme-stats-five-ivory-45.vercel.app/api?username=jketterer02&theme=dark&show_icons=true" alt="GitHub Stats" />
+    <img height="180px" src="https://github-readme-stats-five-ivory-45.vercel.app/api?username=jketterer02&theme=dark&show_icons=true" alt="GitHub Stats" style="border: none;" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/jketterer02">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jketterer02&layout=compact&theme=dark" alt="Top Languages" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jketterer02&layout=compact&theme=dark" alt="Top Languages" style="border: none;" />
   </a>
 </div>
 
