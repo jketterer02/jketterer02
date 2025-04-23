@@ -1,5 +1,4 @@
-## Hi there 👋
-
+UTA Software Engineering Student, currently on track to graduate in Spring 2025
 <!--
 **jketterer02/jketterer02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
