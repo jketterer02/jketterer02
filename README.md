@@ -4,6 +4,6 @@
 <h2>Github Stats</h2>
 <a href="https://github.com/jketterer02"><img width="50%" src="https://github-readme-stats-five-ivory-45.vercel.app/api?username=jketterer02&theme=github_dark&show_icons=true"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jketterer02)](https://github.com/jketterer02/github-readme-stats&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jketterer02&layout=compact)](https://github.com/jketterer02/github-readme-stats)
 
 
