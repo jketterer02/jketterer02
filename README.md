@@ -11,6 +11,5 @@
   * Student score prediction using machine learning and data mining (Python)
   * Android news application (Java & Android Studio)
   * Esports statistics database controlled via CLI (Python, MySQL)
-  * A janky recreation of Balatro that I code in my spare time (Java)
   * Basic networking & routing using CISCO Packet Tracer
 
