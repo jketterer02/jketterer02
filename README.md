@@ -11,5 +11,6 @@
   * Student score prediction using machine learning and data mining (Python)
   * Android news application (Java & Android Studio)
   * Esports statistics database controlled via CLI (Python, MySQL)
-  * Basic networking & routing using CISCO Packet Tracer
+  * Basic networking & routing (CISCO Packet Tracer)
+  * Real-Time 3D physics simulation engine (C++, Postgres)
 
