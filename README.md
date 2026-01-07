@@ -2,7 +2,7 @@
 <p align="center">I'm Jacob Ketterer, a UTA Software Engineering graduate</p>
 <div align="center">
   <img src="https://github-readme-stats-five-ivory-45.vercel.app/api?username=jketterer02&theme=dark&show_icons=true" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jketterer02&layout=compact&theme=dark" height="195px"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jketterer02&layout=compact&theme=dark" height="195px"/> -->
 </div>
 
 ## <p align="center">💻 Projects 💻</p>
